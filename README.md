@@ -1,2 +1,2 @@
-# Guess_My_Number
-A fun guessing game
+# Guess The Number
+A fun guessing game 
